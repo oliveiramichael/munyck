@@ -1,16 +1,20 @@
-### Hi there 👋
+### 👋 Olá! Seja bem-vindo(a)!
+- 🙋‍♀️ Chamo-me Munyck Matias.
+- 👩‍💻 Cursando Bacharel em Sistemas de Informação na Estácio de Sá.
+- 💼 Atualmente estou trabalhando como Desenvolvedora Fullstack na Dominus Dev.
+- 📫 Contate-me através do LinkedIn: https://www.linkedin.com/in/munyckmatias/
 
-<!--
-**munyck/munyck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Minhas atividades no GitHub:
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=munyck&theme=dracula&show_icons=true" />
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munyck&theme=dracula&layout=compact" />
+</div>
+
+<div align="center">
+  <img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=munyck&theme=dracula&show_icons=true" />
+</div>
